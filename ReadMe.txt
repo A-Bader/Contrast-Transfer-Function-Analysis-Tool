@@ -11,7 +11,7 @@ A User Manual is available, which includes installation steps and detailed usage
 Please refer to the manual for guidance on how to use the tool effectively.
 
 Contact Support
-If you encounter issues not covered in this manual or need further assistance, please contact our support team at: RST CDRH@fda.hhs.gov.
+If you encounter issues not covered in this manual or need further assistance, please contact our support team at: RST_CDRH@fda.hhs.gov.
 
 Related Links
 [1] “IEC 63145-20-20:2019 Eyewear display - Part 20-20: Fundamental measurement methods - Image quality,” (2020).
